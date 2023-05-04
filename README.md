@@ -4,6 +4,6 @@
 
 ## Purpose
 
-## Deployments
+## Deployment
 
 ## How To Contribute
