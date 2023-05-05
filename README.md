@@ -7,3 +7,5 @@ purpose txt here
 ## Deployment
 deployment txt
 ## How To Contribute
+
+copyright noticve
